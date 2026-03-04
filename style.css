@@ -1,0 +1,46 @@
+/* ================= GLOBAL ================= */
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f7f8fc;
+}
+
+.navbar-brand{
+    font-size: 24px;
+}
+
+/* ================= HERO ================= */
+
+.hero-section{
+    padding: 80px 0;
+}
+
+.hero-title{
+    font-size: 48px;
+    font-weight: 700;
+    color: #242f51;
+    line-height: 1.2;
+}
+
+.hero-text{
+    font-size: 16px;
+    color: #616368;
+    max-width: 450px;
+}
+
+.hero-img{
+    max-height: 550px;
+}
+
+/* Button Custom */
+.btn-primary{
+    background-color: #2500f9;
+    border: none;
+}
+
+.btn-primary:hover{
+    background-color: #1a00c6;
+}
+.container text-center{
+    justify-items: center;
+}
